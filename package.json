@@ -1,0 +1,22 @@
+{
+  "name": "graphqlprac",
+  "version": "1.0.0",
+  "description": "graphqlPrac by make APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/hou27/graphqlPrac.git"
+  },
+  "author": "hou27",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hou27/graphqlPrac/issues"
+  },
+  "homepage": "https://github.com/hou27/graphqlPrac#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
