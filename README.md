@@ -27,3 +27,7 @@ ex)
 type Query {  
 	name: String!  
 }  
+
+GraphpQL Resolvers는 GraphQl Server에서 요청을 받고,  
+GraphpQL Server가 Query or Mutation의 정의를 발견하면,  
+Resolver를 찾고, 해당 함수를 실행함.  
