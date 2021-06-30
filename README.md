@@ -21,3 +21,9 @@ Problems that can solve with graphql
 >under-fetching  
 
 graphql can actually describe all the information that what I want on one query  
+
+Query 에 !가 붙으면 isRequired이다.  
+ex)  
+type Query {  
+	name: String!  
+}  
