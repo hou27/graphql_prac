@@ -30,3 +30,11 @@ export const getById = id => {
 	
 	return filteredPeople[0];
 }
+
+export const getMovies = () => {
+	
+}
+
+export const deleteMovie = () => {
+	
+}
