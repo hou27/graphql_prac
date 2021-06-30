@@ -1,0 +1,2 @@
+# graphqlPrac
+graphql practice repostiory
