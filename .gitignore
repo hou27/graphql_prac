@@ -1,2 +1,4 @@
 node_modules
 schemagraphql.history
+db.history
+resolvers.history
