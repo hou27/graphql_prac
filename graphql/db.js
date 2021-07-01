@@ -3,8 +3,8 @@ import axios from "axios";
 
 const BASE_URL = "https://yts.mx/api/v2/"
 	, LIST_MOVIES_URL = `${BASE_URL}list_movies.json`
-	, MOVIE_DETAILS_URL = `${BASE_URL}moive_details.json`
-	, MOVIE_SUGGESTIONS_URL = `${BASE_URL}moive_sugguestions.json`;
+	, MOVIE_DETAILS_URL = `${BASE_URL}movie_details.json`
+	, MOVIE_SUGGESTIONS_URL = `${BASE_URL}movie_suggestions.json`;
 
 
 export const getMovies = async (limit, rating) => {
