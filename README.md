@@ -1,5 +1,5 @@
 # graphqlPrac
-graphql practice repostiory
+graphql practice repostiory(nomadCoder lecture)
 
 --06.30  
 start with  
