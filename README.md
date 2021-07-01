@@ -35,4 +35,4 @@ Resolver를 찾고, 해당 함수를 실행함.
 --07.01  
 [open API](https://yts.mx/api)
 [Movie List](https://yts.mx/api/v2/list_movies.json)  
-https://yts.mx/api/v2/list_movies.json?limit=50&minimum_rating=9  
+ex) https://yts.mx/api/v2/list_movies.json?limit=50&minimum_rating=9  
