@@ -1,7 +1,7 @@
 //import fetch from "node-fetch";
 import axios from "axios";
 
-const BASE_URL = "https://yts.mx/api/v2/"
+const BASE_URL = "https://yts-proxy.now.sh/"
 	, LIST_MOVIES_URL = `${BASE_URL}list_movies.json`
 	, MOVIE_DETAILS_URL = `${BASE_URL}movie_details.json`
 	, MOVIE_SUGGESTIONS_URL = `${BASE_URL}movie_suggestions.json`;
